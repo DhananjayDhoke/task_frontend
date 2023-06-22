@@ -1,0 +1,15 @@
+{
+    "comdata":[
+        {
+            "Operatingcompany":"Pro Legal Serve",
+            "Companytype":"B2B", 
+            "buisnessname":"Flash",
+             "state":"Maha",
+             "city" :"Pune",
+             "country":"India",
+             "zipcode":"441199",
+             "phoneNumber":"123456789"
+
+        }
+    ]
+}
